@@ -1,0 +1,24 @@
+# Unreal Engine project ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build artifacts
+Build/
+
+# IDE/editor
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Logs/temp
+*.log
+*.tmp
+*.bak
+
+# OS
+Thumbs.db
+Desktop.ini
